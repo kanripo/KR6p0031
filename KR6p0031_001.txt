@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:07.515258
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:15
 #+TITLE: 佛說無量壽佛名號利益大事因緣經
 #+PROPERTY: CBETA_ID X01n0011
 #+PROPERTY: ID KR6p0031
